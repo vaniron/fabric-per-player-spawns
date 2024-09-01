@@ -8,10 +8,11 @@
   "authors": [
     "halfof2 <devan@cleverpath.com>",
     "unsupervised@tutanota.com",
-    "vlad2305m"
+    "vlad2305m",
+    "shoker137"
   ],
   "contact": {
-    "sources": "https://github.com/vlad2305m/fabric-per-player-spawns"
+    "sources": "https://github.com/shoker537/fabric-per-player-spawns"
   },
 
   "license": "GPL",
